@@ -1,2 +1,6 @@
 Linha 1: Início do projeto
+<<<<<<< HEAD
 Linha 2: Atualização crítica na main e tela de login integrada
+=======
+Linha 2: Implementando a tela de login
+>>>>>>> ec7488e (feat: adiciona funcionalidade de login)

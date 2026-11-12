@@ -1,0 +1,2 @@
+Linha 1: Início do projeto
+Linha 2: Atualização crítica na main e tela de login integrada
